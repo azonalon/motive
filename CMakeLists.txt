@@ -107,7 +107,7 @@ set(motive_SRCS
     include/motive/simple_init_template.h
     include/motive/simple_processor_template.h
     include/motive/spline_init.h
-    include/motive/sprint_init.h
+    include/motive/spring_init.h
     include/motive/target.h
     include/motive/util.h
     include/motive/vector_motivator.h
